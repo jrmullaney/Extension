@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-pdflatex supporting.tex
-pdflatex supporting.tex
+pdflatex REF23-01851_Supporting.tex
+pdflatex REF23-01851_Supporting.tex
 
-pdflatex response.tex
-pdflatex response.tex
+pdflatex REF23-01851_Response.tex
+pdflatex REF23-01851_Response.tex
